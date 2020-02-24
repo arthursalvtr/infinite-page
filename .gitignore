@@ -1,0 +1,6 @@
+*.log
+/public/cache/
+.env
+.idea/
+/vendor
+/node_modules
